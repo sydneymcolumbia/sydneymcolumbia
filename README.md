@@ -17,4 +17,4 @@ MIT Club of Boston BioSummit Strategic Planning Committee: Marketing Lead for an
 Wheaton College Model UN & Special Events Committee: President, spearheading alumni engagement and special events.
 
 📈 Finance Expertise
-Options and derivatives investing with a focus on managing Greeks and PnL drivers in response to global events.
+Options and derivatives investing with a focus on managing PnL drivers in response to global events and predictive analysis.
